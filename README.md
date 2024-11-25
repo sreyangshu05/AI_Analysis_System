@@ -37,7 +37,6 @@ A WebSocket-based system for real-time scoring and feedback of student responses
 -- Open the corresponding test file and inspect the failing test function.
 -- Fix any bugs in the implementation or test logic, and re-run the tests.
 7. Run with Verbose Output:
-```bash
 pytest -v
 ================== test session starts ==================
 collected 12 items
